@@ -22,6 +22,10 @@ hr {
 
 strong {color: blue;}
 
+ul {
+    list-style-type: none;
+}
+
 .bilddoris {
     width: 70%;
 }
@@ -34,10 +38,6 @@ strong {color: blue;}
 .menue2 {
     padding-left: 0px;
     margin-left: 0px;
-}
-
-ul {
-    list-style-type: none;
 }
 
 a:link, a:visited {
