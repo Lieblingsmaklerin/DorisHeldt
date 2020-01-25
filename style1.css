@@ -20,7 +20,9 @@ hr {
     margin-left: 0;
 }
 
-strong {color: blue;}
+Img src {
+    width: auto; heigh: 400 px
+}
 
 ul {
     list-style-type: none;
@@ -31,13 +33,12 @@ ul {
 }
 
 .menue {
-    float: left;
-    margin: right;
+    colour: blue;
+    font-size: large;
 }
 
 .menue2 {
-    padding-left: 0px;
-    margin-left: 0px;
+    font-size: small;
 }
 
 a:link, a:visited {
