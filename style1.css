@@ -18,6 +18,7 @@ h2 {
 
 hr {
     width: 100%;
+    color: #698474;
 }
 
 Img src {
@@ -40,9 +41,5 @@ ul {
 .menue2 {
     color: #698474;
     font-size: large;
-}
-
-a:link, a:visited {
-    color: #BAC7A7;
 }
 
