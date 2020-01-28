@@ -21,6 +21,11 @@ h3 {
     font-size: 1.5em;
 }
 
+h4 {
+    color: #698474;
+    font-size: small;
+}
+
 hr {
     width: 100%;
     color: #698474;
