@@ -16,6 +16,11 @@ h2 {
     font-size: 1.5em;
 }
 
+h3 {
+    color: #698474;
+    font-size: 1.5em;
+}
+
 hr {
     width: 100%;
     color: #698474;
@@ -31,6 +36,12 @@ ul {
 
 .bilddoris {
     width: 70%;
+}
+
+.headline {
+    color: #698474;
+    background-color: ##E5E4CC;
+    font-size: large;
 }
 
 .menue {
