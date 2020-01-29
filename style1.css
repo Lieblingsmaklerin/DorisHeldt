@@ -27,35 +27,33 @@ h4 {
 }
 
 hr {
-    width: 100%;
     color: #698474;
+    width: 100%;
 }
 
-Img src {
-    width: auto; heigh: 400 px
+.bilddoris {
+    height: 500px;
+    width: auto;
 }
 
 ul {
     list-style-type: none;
 }
 
-.bilddoris {
-    width: 70%;
-}
-
 .headline {
+    background-color: #E5E4CC;
     color: #698474;
-    background-color: ##E5E4CC;
     font-size: large;
 }
 
 .menue {
-    color: #698474;
     background-color: whitesmoke;
+    color: #698474;
     font-size: large;
 }
 
 .menue2 {
+    background-color: whitesmoke;
     color: #698474;
     font-size: large;
 }
